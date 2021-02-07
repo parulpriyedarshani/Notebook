@@ -1,7 +1,7 @@
 # Notebook
 
 Notebook is purely an Angular based notes taking single page application enabled with CRUD(Create, Read, Update, Delete) functionalities, animations, filter feature and an amazing User Interface built for serving the purpose of creating notes. The Bulma CSS framework has been used here for creating the UI. This app can really come handy in our day to day busy life where we tend to forget things and where we don't have the time to write down things on pen and paper. 
-This is how the NOTEBOOK app looks-
+This is how the NOTEBOOK app looks like-
 
 ##
 
