@@ -4,7 +4,7 @@ Notebook is purely an Angular based notes taking single page application enabled
 ##
 
 # Key Features
-##
+
 User can add notes upto any length with proper title and body.
 Can delete notes.
 User can edit the notes whenever they need to and save changes or discard them if needed.
